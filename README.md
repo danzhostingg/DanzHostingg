@@ -21,7 +21,7 @@
         <a href="https://wa.me/6287722877327" target="_blank">Beli Sekarang</a>
       </div>
       <div class="card">
-        <h3>Paket Irons</h3>
+        <h3>Paket Iron</h3>
         <p>Harga: Rp20.000 / bulan</p>
         <p>5GB Storage | 25GB Bandwidth</p>
         <a href="https://wa.me/6287722877327" target="_blank">Beli Sekarang</a>
