@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>BuyHosting</h1>
+    <h1>DanzHosting</h1>
     <p>Hosting Murah & Terpercaya di Indonesia</p>
   </header>
 
@@ -49,7 +48,7 @@
   </main>
 
   <footer>
-    <p>© 2025 BuyHosting - All rights reserved.</p>
+    <p>© 2025 DanzHosting - All rights reserved.</p>
   </footer>
 </body>
 </html>
